@@ -1,0 +1,1 @@
+../../.git/annex/objects/VX/FJ/MD5E-s4874--d124d219891b72ed45c6ca3c25ee7b9e.spec/MD5E-s4874--d124d219891b72ed45c6ca3c25ee7b9e.spec
